@@ -10,3 +10,4 @@
 | f-enums.rs | enums | `rustc f-enums.rs && ./f-enums` | `area of shape1 is : 48`, `area of shape2 is : 113.03999999999999` |
 | g-option.rs | option enum | `rustc g-option.rs && ./g-option` | `i found you at: 0`         |
 | h-result.rs | result enum | `rustc h-result.rs && ./h-result` | `read the file successfully here's the content inside: hello World!`         |
+| i-date_time.rs | date time | `rustc i-date_time.rs && ./i-date_time` | `local time: 2025-08-11 12:29:59.526986 +05:30`, `current time: 2025-08-11 06:59:59.527261 UTC` |
