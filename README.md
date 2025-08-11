@@ -9,3 +9,4 @@
 | e-implementing_structs.rs | implementing structs | `rustc e-implementing_structs.rs && ./e-implementing_structs` | `area of rectangle is 32`, `perimeter of rectangle is 24`, `return debug without self: 1` |
 | f-enums.rs | enums | `rustc f-enums.rs && ./f-enums` | `area of shape1 is : 48`, `area of shape2 is : 113.03999999999999` |
 | g-option.rs | option enum | `rustc g-option.rs && ./g-option` | `i found you at: 0`         |
+| h-result.rs | result enum | `rustc h-result.rs && ./h-result` | `read the file successfully here's the content inside: hello World!`         |
